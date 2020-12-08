@@ -4,4 +4,4 @@ My name is Mikołaj Borowicz. I study computer science on AGH University of Scie
 
 
 ### Contact me! 
-If you have any questions or troubles using email: mborowicz@student.agh.edu.pl
+If you have any questions or troubles, contact me using email: mborowicz@student.agh.edu.pl
