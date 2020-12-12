@@ -8,5 +8,10 @@ Here's my [**blog**](https://boro2001.github.io/blog)
 
 My favourite hobbies are basketball and weightlifting. I also like playing on the piano and developing my mathematical skills.
 
+### Project, I took part in: 
+
+Dobblethon - academic project of popular game, Doddle. The project uses speech recognition. 
+Link to the project: [**DObblethon**](https://github.com/AGH-Narzedzia-Informatyczne/dobblethon)
+
 ### Contact me! 
 If you have any questions or troubles, contact me using email: **mborowicz@student.agh.edu.pl**
