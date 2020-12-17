@@ -12,6 +12,6 @@ My favourite hobbies are basketball and weightlifting. I also like playing on th
 
 Dobblethon - academic project of popular game, Doddle. The project uses speech recognition. 
 Link to the project: [**Dobblethon**](https://github.com/AGH-Narzedzia-Informatyczne/dobblethon)
-
+Our goal was to create an interactive game with sound recognition. In few months we menaged to create simple python application. The rules are simple... Who is the fastest wins! I highly recommend trying it out. You'll have great time playing Dobblethon.
 ### Contact me! 
 If you have any questions or troubles, contact me using email: **mborowicz@student.agh.edu.pl**
