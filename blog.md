@@ -1,7 +1,7 @@
 # Welcome to my blog 
 
 ## Zgadywanka
-
+[x^2 + (a+b) x + a * b = 0](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 Ten materiał powstał z myślą o osobach, które uważają matematykę szkolną za nudną. Zgadzam się z nimi. Przedstawię poniżej ciekawy sposób rozwiązywania równań kwadratowych. Po przepracowaniu tej lektury będziesz w stanie rozwiązać równanie  x^2 - 3x - 40 = 0  bez używania długopisu. Zapraszam do lektury.
 
