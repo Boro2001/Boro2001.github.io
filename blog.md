@@ -1,5 +1,5 @@
 # Welcome to my blog 
-***
+
 
 ## Zgadywanka
 Ten materiał powstał z myślą o osobach, które uważają matematykę szkolną za nudną. Zgadzam się z nimi. Przedstawię poniżej ciekawy sposób rozwiązywania równań kwadratowych. Po przepracowaniu tej lektury będziesz w stanie rozwiązać równanie  x^2 - 3x - 40 = 0  bez używania długopisu. Zapraszam do lektury.
@@ -36,11 +36,11 @@ Rozwiąż za pomocą metody zgadywania:
 7.   x^2 + 11x + 30 = 0
 8.   x^2 + 13/4x + 3/4 = 0
 9.   x^2 + 1/4x - 1/8 = 0
-***
+
 
 ## Zgadywanka 2
 
-W zgadywance mieliśmy do czynienia z rówaniami kwadratowymi, w których współczynnik przy dugiej potędze był równy 1. Z autopsji wiemy, że nie tylko z takimi równaniami się spotykamy. Musimy więc do przykładu równania dobierać stosowną, optymalną metodę rozwiązania. Po przepracowaniu tego materiału będziesz w stanie szybko rozwiązać równanie x^3 + 11x^2 + 34x + 24 = 0  lub 2x^2 - 3x + 1= 0
+W zgadywance mieliśmy do czynienia z rówaniami kwadratowymi, w których współczynnik przy dugiej potędze był równy 1. Z autopsji wiemy, że nie tylko z takimi równaniami się spotykamy. Musimy więc do przykładu równania dobierać stosowną, optymalną metodę rozwiązania. Po przepracowaniu tego materiału będziesz w stanie szybko rozwiązać równanie x^3 + 11x^2 + 34x + 24 = 0  lub 2x^2 - 3x + 1 = 0
 
 
 ### Metoda 
@@ -116,4 +116,3 @@ Rozwiąż stosując 2 poznane właściwośći wielomianów:
 3. x^3 + 2x^2 + x - 4 = 0
 
 4. -6x^3 + 8x^2 + 10x - 4 = 0
-***
