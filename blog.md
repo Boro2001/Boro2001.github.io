@@ -1,7 +1,7 @@
 # Welcome to my blog 
 
 ## Zgadywanka
-Ten materiał powstał z myślą o osobach, które uważają matematykę szkolną za nudną. Zgadzam się z nimi. Przedstawię poniżej ciekawy sposób rozwiązywania równań kwadratowych. Po przepracowaniu tej lektury będziesz w stanie rozwiązać równanie  x^2 - 3x - 40 = 0  bez używania długopisu. Zapraszam do lektury.
+Ten materiał powstał z myślą o osobach, które uważają matematykę szkolną za nudną. Zgadzam się z nimi. Przedstawię poniżej ciekawy sposób rozwiązywania równań kwadratowych. Po przepracowaniu tej lektury będziesz w stanie rozwiązać równanie  **x^2 - 3x - 40 = 0**  bez używania długopisu. Zapraszam do lektury.
 
 ### Metoda
 Równania będziemy rozwiązywać za pomocą zgadywania. Jest to najprzyjemniejszy i najszybszy sposób otrzymywania wyników. Niestety większość z nas praktykuje monotonne liczenie delty.
