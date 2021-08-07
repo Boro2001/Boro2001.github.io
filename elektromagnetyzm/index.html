@@ -103,8 +103,9 @@
         </p>
         <p>
             Teraz, zobaczymy co nabla robi. Nablą możemy działać na pole skalarne i wektorowe. Służy ona do badania gradientu i dywergencji. I teraz jak sobie zadziałamy nablą na pole skalarne \( f(x,y,z) \), to znaczy przemnożymy skalarnie to otrzymamy gradient.
-            Gradient wskazuje kierunek i wartość maksymalnego wzrostu przestrzennego funkcji. Gradient, jak można zauważyć to jest wektor. $$ grad f(x,y,z) = \nabla f(x,y,z) = ( \frac{\partial f(x,y,z)}{\partial x} , \frac{\partial f(x,y,z)}{\partial
-            y} , \frac{\partial f(x,y,z)}{\partial z}) $$
+            Gradient wskazuje kierunek i wartość maksymalnego wzrostu przestrzennego funkcji. Gradient, jak można zauważyć to jest wektor.
+            $$ grad f(x,y,z) = \nabla f(x,y,z) = $$ 
+            $$( \frac{\partial f(x,y,z)}{\partial x} , \frac{\partial f(x,y,z)}{\partial y} , \frac{\partial f(x,y,z)}{\partial z}) $$
         </p>
         <h4>Przykład 1.1 - Gradient</h4>
         <img src="images/image0.png" alt="karpaty-foto" id="feynman-1" class="foto">
@@ -121,7 +122,11 @@
 
         <h4>Dywergencja pola wektorowego</h4>
         <p>Powiedziałem, że działanie nablą na jakieś pole to jest mnożenie skalarne w przypadku, gdy mamy pole skalarne. Natomiast gdy pole będzie wektorowe, to będziemy musieli iloczyn skalarny dwóch wektor, bo teraz pole jest wektorem. Dostaniemy wtedy
-            bardzo prosto dywergencję, a dywergencja, jak się domyślasz nie jest wektorem tylko skalarem. $$ div A(x,y,z) = \nabla * A(x,y,z) = ( \frac{\partial}{\partial x} , \frac{\partial}{\partial y} , \frac{\partial}{\partial z}) * (A_x, A_y, A_z)=$$
+            bardzo prosto dywergencję, a dywergencja, jak się domyślasz nie jest wektorem tylko skalarem.
+        </p>
+        <p class="fomula">
+            $$ div A(x,y,z) = $$
+            $$\nabla * A(x,y,z) = ( \frac{\partial}{\partial x} , \frac{\partial}{\partial y} , \frac{\partial}{\partial z}) * (A_x, A_y, A_z)=$$
             $$( \frac{\partial A_x}{\partial x} + \frac{\partial A_y}{\partial y} + \frac{\partial A_z}{\partial z}) $$ No ale teraz żadnych praktycznych przykładów nie będzie, a dlaczego, no dlatego, że to się przydaje tylko w zadaniach, a nie w praktyce.
         </p>
 
@@ -131,8 +136,12 @@
             to jest wartorści pola. I to tak naprawdę tyle trzeba wiedzieć, bo reszty możemy się domyśleć. Jeśli rotacja pola będzie niezerowa to będzie znaczyło, że pole tworzy pewnego rodzaju wir. Przykładem pola o niezerowej rotacji może być pole z
             wektorowe prędkości podczas tornada.
         </p>
-        <p>
-            $$ \nabla \times \vec{A}=\operatorname{rot}(\vec{A})=\left|\begin{array}{ccc} \hat{n}{x} & \hat{n}{y} & \hat{n}{z} \ \frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \ A{x} & A{y} & A{z} \end{array}\right| $$
+        <p class="formula">
+            $$ \nabla \times \vec{A}=\operatorname{rot}(\vec{A})=$$
+
+            $$ \hat{n}{x} (\frac{\partial}{\partial y}  A{z} - \frac{\partial}{\partial z} A{y} ) - $$
+            $$ \hat{n}{y} (\frac{\partial}{\partial x}  A{z} - \frac{\partial}{\partial z} A{x} ) + $$
+            $$ \hat{n}{z} (\frac{\partial}{\partial x}  A{y} - \frac{\partial}{\partial y} A{x} )  $$
         </p>
         <img src="images/2017_10_12_ophelia-1.jpg" alt="ophelia tornado" class="foto">
 

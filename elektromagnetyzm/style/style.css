@@ -55,7 +55,9 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
-
+.formula{
+    width: auto;
+}
 a {
     color: #51c8b2;
     text-decoration: none;
