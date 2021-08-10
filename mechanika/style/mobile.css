@@ -5,9 +5,7 @@ html {
     font-family: 'Ubuntu', sans-serif;
 }
 
-h1 {
-    
-}
+h1 {}
 
 .title-page {
     height: 60px;
@@ -56,7 +54,7 @@ h1 {
     margin-right: auto;
 }
 
-a{
+a {
     color: #51c8b2;
     text-decoration: none;
 }
