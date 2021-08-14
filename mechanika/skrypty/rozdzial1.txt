@@ -1,0 +1,8 @@
+Cześć, jestem Mikołaj 
+Na tym nagraniu przedstawię Ci 2 zadania z wektorów 
+I pokażę jak rozwiązywać zadania z automatycznymi testami podczas
+
+Nie marnujmy więcej czasu,
+Zapraszam 
+
+Zacznijmy od klasycznego przykładu działania na wektorach.
