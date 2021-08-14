@@ -52,8 +52,8 @@ body{
 .yt{
     display: block;
    margin: auto;
-   height: 600px;
-   width: 900px;
+   height: 500px;
+   width: 90%;
 }
 a {
     color: #51c8b2;
