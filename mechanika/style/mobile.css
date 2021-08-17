@@ -54,8 +54,12 @@ body{
    margin: auto;
    height: 500px;
    width: 90%;
+   border: 4px solid #5185c8;
 }
 a {
     color: #51c8b2;
     text-decoration: none;
+}
+.markdown-body{
+    color: white;
 }
