@@ -1,8 +1,16 @@
 Cześć, jestem Mikołaj 
-Na tym nagraniu przedstawię Ci 2 zadania z wektorów 
-I pokażę jak rozwiązywać zadania z automatycznymi testami podczas
-
+to jest pierwszy odcinek kursu mechaniki.
 Nie marnujmy więcej czasu,
 Zapraszam 
 
-Zacznijmy od klasycznego przykładu działania na wektorach.
+
+1. Omównienie działania kursu
+2. Jak się zalogować na hackerrank 
+3. Dlaczego programowanie jest istotne
+4. Teoria - działania na wektorach!
+    - układ prawoskrętny
+    - wektory jednostkowe
+    - skalowanie wektorów 
+    - iloczyn skalarny 2 wektorów 
+    - iloczyn wektorowy 2 wektorów
+5. Zadanie ocenianie automatycznie
