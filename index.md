@@ -22,6 +22,9 @@ Link to the course: [**Elektromagnetyzm**](https://boro2001.github.io/elektromag
 
 Mechanical Course for academic and middle school students. (written in polish)
 Link to the course: [**Mechanika**](https://boro2001.github.io/mechanika/index)
+
+Phisics for middle school students. (Prepared with collaboration with [**ELEMENTUM**](https://elementum.edu.pl))
+Link to the course: [**Fizyka**](https://boro2001.github.io/kurs_maturalny/index)
 ### Contact me! 
 If you have any questions or troubles, contact me using email: **mborowicz@student.agh.edu.pl**
 
