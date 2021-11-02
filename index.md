@@ -17,6 +17,9 @@ Our goal was to create an interactive game with sound recognition. In few months
 
 ### Fun activities and some more educational stuff :)
 
+Mathematics for high-school students. (written in polish)
+Link to the Course: [**Matematyka-matura**](https://boro2001.github.io/dydaktyka/matematyka/index)
+
 Electromagnetic Course for academic students. (written in polish)
 Link to the course: [**Elektromagnetyzm**](https://boro2001.github.io/elektromagnetyzm/index)
 
