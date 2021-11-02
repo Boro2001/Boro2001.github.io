@@ -1,0 +1,65 @@
+html {
+    margin: 10px;
+    background-color: #26282E;
+    color: white;
+    font-family: 'Consolas', sans-serif;
+}
+body{
+    background-image: "../images/bg1.jpg";
+}
+.title-page {
+    height: 60px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.spis {
+    border: 3px solid #51c8b2;
+    border-radius: 15px;
+    height: auto;
+    transition: all .3s ease-in-out;
+
+}
+
+.spis:hover {
+    filter: brightness(100%);
+}
+
+.list-element {
+    height: auto;
+    margin: 4px;
+    text-decoration-style: cornsilk;
+    transition: all .3s ease-in-out;
+    width: auto;
+    text-decoration: darkkhaki;
+    filter: brightness(70%);
+}
+
+.list-element:hover {
+
+    filter: brightness(100%);
+}
+
+.foto {
+    height: auto;
+    width: 600px;
+    border: 4px solid #51c8b2;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.yt{
+    display: block;
+   margin: auto;
+   height: 500px;
+   width: 90%;
+   border: 4px solid #5185c8;
+}
+a {
+    color: #51c8b2;
+    text-decoration: none;
+}
+.markdown-body{
+    color: white;
+}
