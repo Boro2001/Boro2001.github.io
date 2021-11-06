@@ -16,7 +16,7 @@ body {
 }
 
 .spis {
-    border: 3px solid #51c8b2;
+    border: 1px solid #51c8b2;
     border-radius: 15px;
     height: auto;
     transition: all .3s ease-in-out;
