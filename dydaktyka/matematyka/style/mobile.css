@@ -2,11 +2,13 @@ html {
     margin: 10px;
     background-color: #26282E;
     color: white;
-    font-family: 'Consolas', sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
-body{
+
+body {
     background-image: "../images/bg1.jpg";
 }
+
 .title-page {
     height: 60px;
     margin-top: 30px;
@@ -18,7 +20,6 @@ body{
     border-radius: 15px;
     height: auto;
     transition: all .3s ease-in-out;
-
 }
 
 .spis:hover {
@@ -36,7 +37,6 @@ body{
 }
 
 .list-element:hover {
-
     filter: brightness(100%);
 }
 
@@ -49,17 +49,20 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
-.yt{
+
+.yt {
     display: block;
-   margin: auto;
-   height: 500px;
-   width: 90%;
-   border: 4px solid #5185c8;
+    margin: auto;
+    height: 500px;
+    width: 90%;
+    border: 4px solid #5185c8;
 }
+
 a {
     color: #51c8b2;
     text-decoration: none;
 }
-.markdown-body{
+
+.markdown-body {
     color: white;
 }
