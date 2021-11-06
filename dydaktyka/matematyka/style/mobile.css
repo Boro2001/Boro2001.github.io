@@ -19,6 +19,7 @@ body {
     border: 1px solid #51c8b2;
     border-radius: 15px;
     height: auto;
+    background-color: #7800bd1a;
     transition: all .3s ease-in-out;
 }
 
