@@ -1,0 +1,16 @@
+Cześć, jestem Mikołaj 
+to jest pierwszy odcinek kursu mechaniki.
+Nie marnujmy więcej czasu,
+Zapraszam 
+
+
+1. Omównienie działania kursu
+2. Jak się zalogować na hackerrank 
+3. Dlaczego programowanie jest istotne
+4. Teoria - działania na wektorach!
+    - układ prawoskrętny
+    - wektory jednostkowe
+    - skalowanie wektorów 
+    - iloczyn skalarny 2 wektorów 
+    - iloczyn wektorowy 2 wektorów
+5. Zadanie ocenianie automatycznie
